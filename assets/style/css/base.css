@@ -35,6 +35,7 @@ body {
   -moz-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   font-family: "Rubik";
+  background-color: var(--bs-gray-900);
 }
 
 a {
