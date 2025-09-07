@@ -1,0 +1,68 @@
+.containerOne {
+  width: 100%;
+  min-height: calc(100vh - 80px);
+  display: flex;
+  margin-top: 80px;
+  background-image: url(../../img/sectionOneFone.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.contentOne {
+  margin: 60px 100px 60px 0;
+  background: rgba(0, 12, 28, 0.8784313725);
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  border-radius: 0 10px 10px 0;
+  box-shadow: 7px 9px 20px 1px rgba(150, 175, 225, 0.42);
+  border-top: 1px solid rgba(150, 175, 225, 0.15);
+  backdrop-filter: blur(3px);
+  overflow: hidden;
+}
+
+.contentOneDescription {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.contentOneDescription h1 {
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--bs-gray-500);
+  letter-spacing: 1px;
+}
+.contentOneDescription h4 {
+  color: var(--bs-gray-500);
+  letter-spacing: 1.3px;
+  line-height: 1.6;
+  font-weight: 200;
+  margin: 20px 0 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+.contentOneDescription p {
+  line-height: 1.6;
+  letter-spacing: 1.3px;
+  text-align: center;
+  padding: 10px;
+  color: var(--bs-gray-500);
+}
+
+@media (max-width: 716px) {
+  .contentOne {
+    flex-direction: column;
+    border-radius: 10px;
+    margin: 20px 40px 20px 0;
+  }
+  .contentOneDescription {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=containerOne.css.map */

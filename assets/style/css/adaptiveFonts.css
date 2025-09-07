@@ -1,0 +1,131 @@
+@media (max-width: 767px) {
+  h1 {
+    font-size: calc(32px + 115.6 * (100vw - 320px) / 2400);
+  }
+}
+@media (min-width: 767px) {
+  h1 {
+    font-size: calc(32px + 68 * 100vw / 2400);
+  }
+}
+
+@media (max-width: 767px) {
+  h2 {
+    font-size: calc(20px + 30.6 * (100vw - 320px) / 2400);
+  }
+}
+@media (min-width: 767px) {
+  h2 {
+    font-size: calc(20px + 18 * 100vw / 2400);
+  }
+}
+
+@media (max-width: 767px) {
+  h3 {
+    font-size: calc(14px + 10.2 * (100vw - 320px) / 2400);
+  }
+}
+@media (min-width: 767px) {
+  h3 {
+    font-size: calc(14px + 6 * 100vw / 2400);
+  }
+}
+
+@media (max-width: 767px) {
+  h4 {
+    font-size: calc(16px + 13.6 * (100vw - 320px) / 2400);
+  }
+}
+@media (min-width: 767px) {
+  h4 {
+    font-size: calc(16px + 8 * 100vw / 2400);
+  }
+}
+
+@media (max-width: 767px) {
+  h5 {
+    font-size: calc(14px + 6.8 * (100vw - 320px) / 2400);
+  }
+}
+@media (min-width: 767px) {
+  h5 {
+    font-size: calc(14px + 4 * 100vw / 2400);
+  }
+}
+
+@media (max-width: 767px) {
+  h6 {
+    font-size: calc(14px + 3.4 * (100vw - 320px) / 2400);
+  }
+}
+@media (min-width: 767px) {
+  h6 {
+    font-size: calc(14px + 2 * 100vw / 2400);
+  }
+}
+
+@media (max-width: 767px) {
+  p {
+    font-size: calc(12px + 6.8 * (100vw - 320px) / 2400);
+  }
+}
+@media (min-width: 767px) {
+  p {
+    font-size: calc(12px + 4 * 100vw / 2400);
+  }
+}
+
+@media (max-width: 767px) {
+  a span {
+    font-size: calc(10px + 10.2 * (100vw - 320px) / 2400);
+  }
+}
+@media (min-width: 767px) {
+  a span {
+    font-size: calc(10px + 6 * 100vw / 2400);
+  }
+}
+
+@media (max-width: 767px) {
+  .logo h5 {
+    font-size: calc(18px + 10.2 * (100vw - 320px) / 2400);
+  }
+}
+@media (min-width: 767px) {
+  .logo h5 {
+    font-size: calc(18px + 6 * 100vw / 2400);
+  }
+}
+@media (max-width: 767px) {
+  .logo h5 b {
+    font-size: calc(20px + 13.6 * (100vw - 320px) / 2400);
+  }
+}
+@media (min-width: 767px) {
+  .logo h5 b {
+    font-size: calc(20px + 8 * 100vw / 2400);
+  }
+}
+@media (max-width: 767px) {
+  .logo span {
+    font-size: calc(6px + 6.8 * (100vw - 320px) / 2400);
+  }
+}
+@media (min-width: 767px) {
+  .logo span {
+    font-size: calc(6px + 4 * 100vw / 2400);
+  }
+}
+
+@media (max-width: 767px) {
+  .desc p {
+    font-size: calc(10px + 6.8 * (100vw - 320px) / 2400);
+  }
+}
+@media (min-width: 767px) {
+  .desc p {
+    font-size: calc(10px + 4 * 100vw / 2400);
+  }
+}
+
+/*# sourceMappingURL=adaptiveFonts.css.map */

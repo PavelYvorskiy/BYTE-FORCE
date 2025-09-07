@@ -1,0 +1,27 @@
+:root{
+    --small-paragraph: rgba(15, 176, 240, 0.89);
+    --color-primary: #617589;
+    --color-white: #ffffff;
+    --color-white-light: #f2f2f2;
+    --color-primary2: #54595f;
+    --color-gray-dark: #7a7a7a;
+    --color-black: #0C0806;
+    --light-yellow-input-bg: #fae5c3;
+    --font-p: 'Raleway', sans-serif;
+    --banner-bg: #9ebfca;
+    --paragraph-color: #333333;
+    --icon-color: #575756;
+    --slider-sub-heading: #4C4C4C;
+    --slider-description: #241E1B;
+    --input-family: 'PT Sans Narrow', sans-serif;
+    --bs-gray-dark: #343a40;
+    --bs-gray-100: #e2e2e2;
+    --bs-gray-200: #e9ecef;
+    --bs-gray-300: #dee2e6;
+    --bs-gray-400: #ced4da;
+    --bs-gray-500: #8d8e9d;
+    --bs-gray-600: #6c757d;
+    --bs-gray-700: #495057;
+    --bs-gray-800: #343a40;
+    --bs-gray-900: #000c1c;
+}

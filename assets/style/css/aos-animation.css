@@ -1,0 +1,12 @@
+[data-aos=anim-decor] {
+  width: 0;
+  filter: blur(30px);
+  opacity: 0;
+}
+[data-aos=anim-decor].aos-animate {
+  width: 100%;
+  filter: blur(0);
+  opacity: 1;
+}
+
+/*# sourceMappingURL=aos-animation.css.map */
