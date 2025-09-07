@@ -11,7 +11,7 @@
   }
 .header{
     width: 100%;
-    min-height: 80px;
+    min-height: 82px;
     padding: 10px 20px;
     position: fixed;
     top: 0;
@@ -87,7 +87,7 @@
     top: 0;
      width: 60%;
      height: 100vh;
-     background: var(--color-white);
+     background: var(--bs-gray-900);
      transform: translateX(110%);
      transition: all 2s;
         &.active{
