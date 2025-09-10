@@ -137,10 +137,11 @@
     padding: 10px;
   }
   .block h3 {
-    width: 52%;
+    width: 51%;
   }
   .block p {
-    width: 52%;
+    width: 51%;
+    padding: 10px 10px 10px 14px;
   }
   .contentFour {
     margin: 20px;

@@ -1,11 +1,11 @@
 .containerThree {
   width: 100%;
-  min-height: 100vh;
   display: flex;
   justify-content: center;
   background-image: url(../../img/mainFone.png);
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
 }
 
 .contentThree {
@@ -50,7 +50,7 @@
 
 .serviseCard {
   width: 280px;
-  min-height: 280px;
+  height: 370px;
   border-radius: 10px;
   box-shadow: 7px 9px 20px 1px rgba(150, 175, 225, 0.42);
   border: 1px solid rgba(150, 175, 225, 0.15);
