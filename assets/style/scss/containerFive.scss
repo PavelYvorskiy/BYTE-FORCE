@@ -1,6 +1,5 @@
 .containerFive{
      width: 100%;
-    // min-height: 100vh;
     display: flex;
     justify-content: center;
     background-color: var(--bs-gray-900);
@@ -9,20 +8,16 @@
 }
 .contentFive{
     padding: 40px;
-    margin: 100px;
+    margin: 20px 100px 100px;
     background: #000c1ce0;
     position: relative;
-    max-width: 1080px;
+    max-width: 1020px;
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     z-index: 1;
-    border-radius: 10px;
-    box-shadow: 7px 9px 20px 1px rgb(150 175 225 / 42%);
-    border-top: 1px solid rgb(150 175 225 / 15%);
-    backdrop-filter: blur(3px);
     overflow: hidden;
 }
 .contentFiveDescription{

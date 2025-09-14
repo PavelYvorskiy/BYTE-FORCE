@@ -9,20 +9,16 @@
 
 .contentFive {
   padding: 40px;
-  margin: 100px;
+  margin: 20px 100px 100px;
   background: rgba(0, 12, 28, 0.8784313725);
   position: relative;
-  max-width: 1080px;
+  max-width: 1020px;
   width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   z-index: 1;
-  border-radius: 10px;
-  box-shadow: 7px 9px 20px 1px rgba(150, 175, 225, 0.42);
-  border-top: 1px solid rgba(150, 175, 225, 0.15);
-  backdrop-filter: blur(3px);
   overflow: hidden;
 }
 

@@ -1,0 +1,13 @@
+.footer {
+  width: 100%;
+  min-height: 150px;
+  padding: 10px 20px;
+  position: relative;
+  background: var(--bs-gray-900);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}
+
+/*# sourceMappingURL=footer.css.map */
