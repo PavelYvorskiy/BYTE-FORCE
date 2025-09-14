@@ -46,8 +46,8 @@
     grid-gap: 30px;
 }
 .serviseCard{
-    width: 280px;
-    height: 370px;
+    width: 300px;
+    min-height: 300px;
     border-radius: 10px;
     box-shadow: 7px 9px 20px 1px rgb(150 175 225 / 42%);
     border: 1px solid rgb(150 175 225 / 15%);
@@ -97,10 +97,15 @@
         display: none;
     }
 }
+@media(max-width:909px){
+.serviseCard{
+     min-height: auto;
+}
+  
+}
 @media(max-width:560px){
     .contentThree{
     padding: 20px;
     margin: 20px;
-}
-  
+} 
 }

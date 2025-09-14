@@ -30,7 +30,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 20px 0;
+  padding: 20px;
 }
 .contentOneDescription h1 {
   font-weight: 400;
@@ -59,7 +59,7 @@
   .contentOne {
     flex-direction: column;
     border-radius: 10px;
-    margin: 20px 40px 20px 0;
+    margin: 100px 40px 100px 0;
   }
   .contentOneDescription {
     width: 100%;
