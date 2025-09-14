@@ -1,14 +1,7 @@
 .logo{
     display: flex;
-    flex-direction: column;
-    h5{
-        color: var(--bs-gray-100);
-        animation: logo-title;
-        animation-duration: 2s;
-        padding: 0;
-        margin-bottom: 2px;
-        font-weight: 300;
-    }
+    align-items: center;
+
     span{
         color: var(--light-green);
         animation: logo-subtitle;
@@ -18,5 +11,19 @@
         margin: 0;
 
      
+    }
+}
+.logoBox{
+    display: flex;
+    flex-direction: column;
+    padding: 3px 0;
+       h5{
+        color: var(--bs-gray-100);
+        animation: logo-title;
+        animation-duration: 2s;
+        padding: 0;
+        margin-bottom: 2px;
+        font-weight: 300;
+        margin-left: 5px;
     }
 }
